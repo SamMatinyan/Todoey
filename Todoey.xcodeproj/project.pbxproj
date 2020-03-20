@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18638A0C2425487F009B5317 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18638A0B2425487F009B5317 /* CategoryViewController.swift */; };
 		1869CEF2241CD3B800011CE7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869CEF1241CD3B800011CE7 /* AppDelegate.swift */; };
 		1869CEF4241CD3B800011CE7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869CEF3241CD3B800011CE7 /* SceneDelegate.swift */; };
 		1869CEF6241CD3B800011CE7 /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869CEF5241CD3B800011CE7 /* TodoListViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18638A0B2425487F009B5317 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		1869CEEE241CD3B800011CE7 /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1869CEF1241CD3B800011CE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1869CEF3241CD3B800011CE7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 		1869CF8B2420E79C00011CE7 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				18638A0B2425487F009B5317 /* CategoryViewController.swift */,
 				1869CEF5241CD3B800011CE7 /* TodoListViewController.swift */,
 			);
 			path = Controllers;
@@ -174,6 +177,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18F82D08242132BE001D7E0B /* DataModel.xcdatamodeld in Sources */,
+				18638A0C2425487F009B5317 /* CategoryViewController.swift in Sources */,
 				1869CEF6241CD3B800011CE7 /* TodoListViewController.swift in Sources */,
 				1869CEF2241CD3B800011CE7 /* AppDelegate.swift in Sources */,
 				1869CEF4241CD3B800011CE7 /* SceneDelegate.swift in Sources */,
